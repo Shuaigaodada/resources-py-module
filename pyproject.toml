@@ -1,0 +1,18 @@
+[project]
+name = "resources"
+version = "0.0.1"
+authors = [
+  { name="Laogao", email="2983536011@example.com" },
+]
+description = "这是一个python的资源管理模块，更好的帮助一些需要从指定目录加载文件或是获取路径而创建的模块"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/Shuaigaodada/resources-py-module"
+Issues = "https://github.com/Shuaigaodada/resources-py-module/issues"
